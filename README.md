@@ -8,5 +8,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasY1724&theme=dark" alt="parasyerunkar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalini-bhandari&theme=dark" alt="shalini-bhandari" />
 </p>
